@@ -1,0 +1,17 @@
+# Node, Python, Mac, and design junk
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+__pycache__/
+.vscode/
+.idea/
+
+# Build/exports
+/build/
+/dist/
+/site/
+
+# Generated previews
+assets/**/previews/

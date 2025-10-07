@@ -1,0 +1,19 @@
+name: Build PDFs (episodes)
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**/*.md'
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >
+            --from=gfm --to=pdf
+            scripts/arc1_the_silver_spoon_of_chaos/episode1_the_day_breakfast_fought_back.md
+            -o dist/episode1.pdf
