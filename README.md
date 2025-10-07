@@ -1,3 +1,7 @@
+> 🔧 For contributors: see **[docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)**  
+> 🤖 For AI tools (ChatGPT, etc.): use **[docs/AI_INSTRUCTIONS.md](docs/AI_INSTRUCTIONS.md)** as your custom instructions.
+
+
 # 🥢 KIDTAMA — Story Bible & Project Guide
 
 _A Serialized Family Comedy inspired by Gintama — chaotic humor with heart._
