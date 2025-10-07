@@ -30,7 +30,7 @@ _A Serialized Family Comedy inspired by Gintama — chaotic humor with heart._
 | **Emi** | 2016‑02‑10 | Brave and mischievous; charges into adventure | Wooden sword; snack backpack | “I got this! (…probably.)” |
 | **Evi** | 2018‑10‑29 | Tough, loud, secretly most paternal | Super strong; epic appetite | Speaks with a Chinese accent |
 | **Ezra** | 2020‑01‑01 | Stoic, dignified, genius but a bit clueless | Leader vibes; “Katsura‑like” energy | “My name is not Zura… it’s **Ezura**.” |
-| **Eli** | 2025‑05‑10 | Chaos gremlin baby; comic relief | Superhuman baby strength | “Oogi!” (baby babble) |
+| **Eli** | 2025‑05‑10 | Chaos gremlin baby; comic relief | Superhuman baby strength | “Gee!” (baby babble) |
 | **Satey** | ??? | A talking cat who thinks it’s a dog | Samurai bandana; brown collar | “Don’t look at me—I just work here.” |
 
 > Keep traits consistent across arcs; exaggerate quirks for comedy or heart.
