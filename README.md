@@ -1,4 +1,12 @@
-> 🔧 For contributors: see **[docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)**  
+> 🔧 For contributors: se## 2️⃣ Main Cast (The Kids)
+
+| Character | Gender | Birthday | Personality | Signature Traits | Catchphrase/Quirk |
+|---|---|---|---|---|---|
+| **Emi** | Female | 2016‑02‑10 | Brave and mischievous; charges into adventure | Wooden sword; snack backpack | "I got this! (…probably.)" |
+| **Evi** | Female | 2018‑10‑29 | Tough, loud, secretly most paternal | Super strong; epic appetite | Speaks with a Chinese accent |
+| **Ezra** | Male | 2020‑01‑01 | Stoic, dignified, genius but a bit clueless | Leader vibes; "Katsura‑like" energy | "My name is not Zura… it's **Ezura**." |
+| **Eli** | Female | 2025‑05‑10 | Chaos gremlin baby; comic relief | Superhuman baby strength | "Gee!" (baby babble) |
+| **Satey** | Female | ??? | A talking cat who thinks it's a dog | Samurai bandana; brown collar | "Don't look at me—I just work here." |/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)**  
 > 🤖 For AI tools (ChatGPT, etc.): use **[docs/AI_INSTRUCTIONS.md](docs/AI_INSTRUCTIONS.md)** as your custom instructions.
 
 
